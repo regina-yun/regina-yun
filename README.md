@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Regina (@regina-yun)
 - 👀 I’m interested in anything cars, gaming and building Legos
-- 🌱 I’m currently on my way to becoming a full-fledged software developer - as of now I am learning front-end software development
+- 🌱 I’m currently on my way to becoming a full-fledged software developer
 - 💞️ I’m looking to collaborate on interesting projects that means something to me
 - 📫 I can be reached at reginayunml@gmail.com
 
